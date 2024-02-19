@@ -1,0 +1,6 @@
+import io.netty.channel.group.DefaultChannelGroupFuture;
+public class FunctionUse3003 {
+public void funcUse() {
+DefaultChannelGroupFuture defaultchannelgroupfuture = new DefaultChannelGroupFuture();
+}
+}
